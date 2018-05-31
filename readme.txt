@@ -6,3 +6,4 @@ Git add from a new branch
 Creating a new branch is quick & simple.
 new dev
 current develop
+fix issue-0001
