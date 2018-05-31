@@ -1,0 +1,2 @@
+git remote add origin git@github.com:sunny-milab/leangit.git
+git remote remove origin
